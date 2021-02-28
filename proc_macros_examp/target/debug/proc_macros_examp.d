@@ -1,0 +1,1 @@
+/home/franktly/Rust/rust_reference/rust_reference/proc_macros_examp/target/debug/proc_macros_examp: /home/franktly/Rust/rust_reference/rust_reference/proc_macros_examp/src/lib.rs /home/franktly/Rust/rust_reference/rust_reference/proc_macros_examp/src/main.rs
